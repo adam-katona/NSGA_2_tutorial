@@ -1,7 +1,7 @@
 # Non dominated Sorting Genetic Algorithm II Tutorial
 
-This notebook aims to help the reader understand how the NSGA-II algorithm works, and how to implement it. \
-NSGA-II was introduced in the paper: \
+This notebook aims to help the reader understand how the NSGA II algorithm works, and how to implement it. \
+NSGA II was introduced in the paper: \
 A Fast and Elitist Multiobjective Genetic Algorithm: NSGA-II  \
 Kalyanmoy Deb, Associate Member, IEEE, Amrit Pratap, Sameer Agarwal, and T. Meyarivan
 
@@ -18,3 +18,4 @@ Contents:
 - Putting it all togeather
 - Solving the toy problem
 - Solving a more complex problem
+- Making it faster
